@@ -1,4 +1,4 @@
-# Financial-Anomaly-Detection
+# Financial Anomaly Detection
 
 A tiered anomaly-detection pipeline for financial transaction data. Cheap, deterministic rules handle what's mechanically checkable; an LLM (Claude API) is escalated to only for the ambiguous cases that require contextual judgment. Structural rules can't ask "does this business name look real" or "does this purchase amount make sense for this category," so those checks are pushed to a model, and every model output is surfaced as an explicit, labeled flag for human review rather than trusted or acted on automatically.
 
