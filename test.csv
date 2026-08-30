@@ -1,0 +1,204 @@
+Timestamp,TransactionID,AccountID,Amount,Merchant,TransactionType,Location,Category
+01-01-2023 08:28,TXN1027,ACC9,86078.5,xk29qz,Transfer,Tokyo,Internal
+01-01-2023 08:12,TXN1011,ACC1,66129.06,fjbqwlz1,Purchase,London,Logistics
+01-01-2023 09:32,9002,ACC11,19320.85,Precision Parts Ltd,Withdrawal,Tokyo,Credit
+01-01-2023 09:14,TXN1073,ACC1,66788.97,3847xk1,Withdrawal,Tokyo,Credit
+01-01-2023 09:16,TXN1075,ACC3,27241.83,Northgate Materials,Purchase,Los Angeles,Logistics
+01-01-2023 08:50,TXN1049,ACC8,86384.17,zzq847x1,Transfer,Tokyo,Account
+01-01-2023 08:07,TXN1006,ACC3,21539.01,Precision Parts Ltd,Purchase,Tokyo,Raw Materials
+01-01-2023 08:18,TXN1017,ACC14,76832.91,Metal Shop,Purchase,Tokyo,Logistics
+01-01-2023 09:15,TXN1074,ACC15,13437.63,Global Freight Logistics,Purchase,New York,Components
+01-01-2023 09:19,TXN1078,ACC14,27674.98,Food Delivery,Withdrawal,London,Cash
+01-01-2023 09:06,TXN1065,ACC10,8207.44,Industrial Supply Co,Transfer,New York,Account
+01-01-2023 09:09,TXN1068,ACC8,31624.24,Global Freight Logistics,Purchase,Narnia,Components
+01-01-2023 08:24,TXN1023,ACC4,99731.61,Steelcore Manufacturing,Transfer,Terraria,Internal
+2023-01-01 08:00,TXN1900,ACC14,47073.82,Apex Components Co,Withdrawal,Los Angeles,Cash
+01-01-2023 08:46,TXN1045,ACC4,27854.66,Summit Industrial Supply,Purchase,New York,Raw Materials
+01-01-2023 09:24,TXN1083,ACC3,4192.43,Precision Parts Ltd,Purchase,Los Angeles,Logistics
+01-01-2023 09:17,TXN1076,ACC4,68752.15,Ironclad Supply Chain,Transfer,Atlantis,Account
+01-01-2023 08:45,TXN1044,ACC15,3150.95,Precision Parts Ltd,Purchase,New York,Logistics
+01-01-2023 09:35,TXN1900,ACC10,abc,Ironclad Supply Chain,Purchase,Tokyo,Components
+01-01-2023 09:04,TXN1063,ACC2,67523.83,Apex Components Co,Withdrawal,Gotham City,Credit
+01-01-2023 08:04,TXN1003,ACC9,60205.25,TitanWorks Fabrication,Purchase,England,Logistics
+01-01-2023 09:10,TXN1069,ACC10,99844.46,Global Freight Logistics,Purchase,New York,Logistics
+01-01-2023 08:34,TXN1033,ACC13,92243.26,ProMetals Industrial,Transfer,Japan,Account
+01-01-2023 08:21,TXN1020,ACC7,88468.58,Summit Industrial Supply,Purchase,Germany,Logistics
+01-01-2023 08:35,TXN1034,ACC8,1957.46,Precision Parts Ltd,Withdrawal,London,Cash
+01-01-2023 08:08,TXN1007,ACC7,9680.57,Precision Parts Ltd,Transfer,Brazil,Account
+01-01-2023 09:02,TXN1061,ACC10,47683.61,TitanWorks Fabrication,Purchase,Tokyo,Raw Materials
+01-01-2023 09:08,TXN1067,ACC4,26568.53,Steelcore Manufacturing,Transfer,Los Angeles,Healthcare
+01-01-2023 08:32,TXN1031,ACC9,91262.75,Ironclad Supply Chain,Transfer,New York,Animal Supplies
+01-01-2023 08:36,TXN1035,ACC1,24094.51,Northgate Materials,Purchase,Tokyo,Raw Materials
+01-01-2023 09:13,TXN1072,ACC14,54325.82,Ironclad Supply Chain,Transfer,New York,Cosmetics
+01-01-2023 08:55,TXN1054,ACC11,99927.25,ProMetals Industrial,Purchase,London,Toys
+01-01-2023 09:07,TXN1066,ACC6,93470.34,Apex Components Co,Withdrawal,Los Angeles,Raw Materials
+01-01-2023 08:30,TXN1029,ACC2,29356.78,Steelcore Manufacturing,Transfer,Tokyo,Cash
+01-01-2023 08:05,TXN1004,ACC7,22051.64,Northgate Materials,Purchase,Tokyo,Internal
+01-01-2023 08:58,TXN1057,ACC5,92651.62,Summit Industrial Supply,Withdrawal,San Francisco,Components
+01-01-2023 09:01,TXN1060,ACC12,96500.00,Precision Parts Ltd,Withdrawal,Tokyo,Cash
+01-01-2023 08:03,TXN1002,ACC7,3187.92,Global Freight Logistics,Purchase,London,Components
+01-01-2023 08:02,TXN1001,ACC3,73649.02,TitanWorks Fabrication,Purchase,New York,Components
+01-01-2023 08:10,TXN1009,ACC15,91200.00,TitanWorks Fabrication,Withdrawal,New York,Cash
+01-01-2023 08:13,TXN1012,ACC14,88750.00,Ironclad Supply Chain,Withdrawal,Los Angeles,Cash
+01-01-2023 08:15,TXN1014,ACC12,99900.00,Global Freight Logistics,Withdrawal,London,Cash
+01-01-2023 08:20,TXN1019,ACC15,94290.6,Precision Parts Ltd,Purchase,San Francisco,Logistics
+32-01-2023 08:00,TXN1900,ACC5,15928.03,Global Freight Logistics,Withdrawal,Tokyo,Credit
+01-01-2023 09:18,TXN1077,ACC5,90533.69,ProMetals Industrial,Purchase,San Francisco,Components
+01-01-2023 08:22,TXN1021,ACC3,24670.04,TitanWorks Fabrication,Transfer,Los Angeles,Account
+01-01-2023 09:23,TXN1082,ACC14,36927.54,TitanWorks Fabrication,Purchase,San Francisco,Logistics
+01-01-2023 09:38,TXN1900,ACC1,70880.73,ProMetals Industrial,Deposit,New York,
+01-01-2023 09:22,TXN1081,ACC2,94504.7,Steelcore Manufacturing,Transfer,Tokyo,Internal
+01-01-2023 08:59,TXN1058,ACC12,95731.23,TitanWorks Fabrication,Transfer,San Francisco,Internal
+01-01-2023 08:19,TXN1018,ACC13,31551.83,Ironclad Supply Chain,Purchase,London,Raw Materials
+01-01-2023 08:06,TXN1005,ACC13,80583.06,Continental Machining,Withdrawal,Los Angeles,Credit
+,,,,,,,
+01-01-2023 08:11,TXN1010,ACC15,86171.21,Northgate Materials,Purchase,Tokyo,Raw Materials
+01-01-2023 08:48,TXN1047,ACC4,78463.31,Continental Machining,Purchase,Tokyo,Raw Materials
+01-01-2023 08:57,TXN1056,ACC15,5872.9,Continental Machining,Purchase,San Francisco,Logistics
+01-01-2023 08:51,TXN1050,ACC1,40267.7,Precision Parts Ltd,Purchase,London,Raw Materials
+01-01-2023 08:31,TXN1030,ACC12,87585.66,Ironclad Supply Chain,Transfer,London,Internal
+01-01-2023 08:33,TXN1032,ACC10,19898.92,Precision Parts Ltd,Purchase,New York,Raw Materials
+01-01-2023 08:14,TXN1013,ACC3,37024.02,Apex Components Co,Transfer,Los Angeles,Internal
+01-01-2023 08:44,TXN1043,ACC1,7108.53,ProMetals Industrial,Purchase,Tokyo,Components
+01-01-2023 09:03,TXN1062,ACC9,8020.27,Steelcore Manufacturing,Purchase,New York,Raw Materials
+01-01-2023 08:29,TXN1028,ACC11,88479.11,Ironclad Supply Chain,Transfer,Los Angeles,Account
+01-01-2023 09:00,TXN1059,ACC3,18997.7,Apex Components Co,Purchase,New York,Logistics
+01-01-2023 09:21,TXN1080,ACC9,70568.98,TitanWorks Fabrication,Purchase,Tokyo,Raw Materials
+01-01-2023 09:37,TXN1900,ACC9,11573.31,Northgate Materials,Refund,Los Angeles,
+01-01-2023 08:27,TXN1026,ACC7,59592.29,Summit Industrial Supply,Transfer,Los Angeles,Account
+01-01-2023 08:37,TXN1036,ACC12,48603.7,Global Freight Logistics,Transfer,London,Account
+01-01-2023 09:12,TXN1071,ACC15,24435.75,Ironclad Supply Chain,Purchase,San Francisco,Raw Materials
+01-01-2023 08:01,TXN1000,ACC11,11141.88,Ironclad Supply Chain,Purchase,London,Components
+,,,,,,,
+01-01-2023 09:27,TXN1086,ACC15,92987.87,Steelcore Manufacturing,Purchase,San Francisco,Components
+01-01-2023 08:23,TXN1022,ACC12,58462.17,Northgate Materials,Withdrawal,Los Angeles,Credit
+01-01-2023 08:49,TXN1048,ACC2,65901.03,Precision Parts Ltd,Withdrawal,San Francisco,Credit
+01-01-2023 08:54,TXN1053,ACC13,86135.44,TitanWorks Fabrication,Purchase,Tokyo,Raw Materials
+01-01-2023 08:25,TXN1024,ACC2,75579.9,Global Freight Logistics,Purchase,London,Logistics
+01-01-2023 08:17,TXN1016,ACC5,98951.45,TitanWorks Fabrication,Purchase,Los Angeles,Logistics
+01-01-2023 09:11,TXN1070,ACC4,50592.9,Steelcore Manufacturing,Withdrawal,Tokyo,Cash
+01-01-2023 08:38,TXN1037,ACC3,65977.83,TitanWorks Fabrication,Purchase,Los Angeles,Logistics
+01-01-2023 08:52,TXN1051,ACC4,19028.8,Summit Industrial Supply,Purchase,San Francisco,Components
+01-01-2023 08:42,TXN1041,ACC8,12109.09,Apex Components Co,Purchase,Los Angeles,Components
+01-01-2023 08:53,TXN1052,ACC3,27861.45,Apex Components Co,Purchase,San Francisco,Raw Materials
+01-01-2023 08:40,TXN1039,ACC13,72995.08,Apex Components Co,Transfer,Los Angeles,Internal
+01-01-2023 09:05,TXN1064,ACC15,56971.27,Northgate Materials,Transfer,Tokyo,Internal
+01-01-2023 08:39,TXN1038,ACC9,87243.71,Continental Machining,Purchase,New York,Raw Materials
+01-01-2023 08:16,TXN1015,ACC9,72914.66,Steelcore Manufacturing,Withdrawal,San Francisco,Credit
+01-01-2023 09:25,TXN1084,ACC4,68209.17,Global Freight Logistics,Withdrawal,New York,Cash
+01-01-2023 08:41,TXN1040,ACC7,99513.99,Precision Parts Ltd,Withdrawal,New York,Cash
+01-01-2023 09:20,TXN1079,ACC11,97979.02,Steelcore Manufacturing,Transfer,San Francisco,Account
+01-01-2023 08:43,TXN1042,ACC1,58834.4,Apex Components Co,Transfer,London,Account
+01-01-2023 09:34,TXN1900,AC2,93923.38,Global Freight Logistics,Withdrawal,London,Cash
+01-01-2023 08:09,TXN1008,ACC13,4354.57,Summit Industrial Supply,Transfer,Tokyo,Account
+01-01-2023 08:56,TXN1055,ACC3,40646.94,Summit Industrial Supply,Purchase,San Francisco,Components
+01-01-2023 08:47,TXN1046,ACC3,72337.3,Northgate Materials,Transfer,San Francisco,Internal
+01-01-2023 08:26,TXN1025,ACC13,68050.64,Northgate Materials,Purchase,San Francisco,Raw Materials
+01-01-2023 09:26,TXN1085,ACC15,87471.65,Northgate Materials,Transfer,London,Account
+01-01-2023 09:36,TXN1900,ACC10,12.34.56,Precision Parts Ltd,Withdrawal,New York,Credit
+01-01-2023 09:33,TXN1900,ACCX1,27919.43,TitanWorks Fabrication,Withdrawal,New York,Cash
+01-01-2023 09:31,TX9001,ACC5,82054.61,Apex Components Co,Purchase,Tokyo,Logistics
+01-01-2023 09:28,TXN1087,ACC1,17944.09,Precision Parts Ltd,Withdrawal,London,Cash
+02-06-2023 08:29,TXN2041,ACC15,52838.58,Ironclad Supply Chain,Withdrawal,Los Angeles,Credit
+02-06-2023 08:33,TXN2045,ACC6,52784.32,ProMetals Industrial,Transfer,Los Angeles,Internal
+02-06-2023 09:10,TXN2082,ACC14,59098.61,Steelcore Manufacturing,Purchase,New York,Raw Materials
+02-06-2023 08:34,TXN2046,ACC12,47135.05,Ironclad Supply Chain,Purchase,London,Components
+02-06-2023 08:53,TXN2065,ACC8,55149.37,Northgate Materials,Transfer,San Francisco,Internal
+02-06-2023 08:32,TXN2044,ACC4,49647.96,Continental Machining,Withdrawal,London,Cash
+02-06-2023 08:30,TXN2042,ACC7,60087.22,Northgate Materials,Purchase,Los Angeles,Raw Materials
+31-04-2023 08:00,TXN2002,ACC13,23110.39,Global Freight Logistics,Withdrawal,San Francisco,Credit
+02-06-2023 09:03,TXN2075,ACC9,49695.11,Ironclad Supply Chain,Purchase,San Francisco,Logistics
+02-06-2023 08:23,TXN2035,ACC5,55663.74,Apex Components Co,Transfer,Los Angeles,Internal
+02-06-2023 09:18,TXN2090,ACC15,53152.09,Global Freight Logistics,Purchase,New York,Raw Materials
+01-01--999 08:00,TXN2010,ACC15,33265.3,TitanWorks Fabrication,Purchase,San Francisco,Raw Materials
+01-06-2023 08:07,TXN2019,ACC15,107176.91,ProMetals Industrial,Transfer,London,Account
+02-06-2023 08:38,TXN2050,ACC9,57217.41,TitanWorks Fabrication,Purchase,Tokyo,Components
+02-06-2023 08:47,TXN2059,ACC10,56522.2,Ironclad Supply Chain,Purchase,Tokyo,Logistics
+02-06-2023 08:24,TXN2036,ACC2,54371.64,Precision Parts Ltd,Purchase,London,Logistics
+02-06-2023 08:13,TXN2025,ACC5,53997.33,Steelcore Manufacturing,Purchase,San Francisco,Logistics
+02-06-2023 08:49,TXN2061,ACC5,55704.19,Summit Industrial Supply,Withdrawal,London,Cash
+02-06-2023 09:26,TXN2098,ACC1,48665.96,Precision Parts Ltd,Purchase,New York,Raw Materials
+02-06-2023 08:31,TXN2043,ACC7,53863.84,Northgate Materials,Transfer,San Francisco,Account
+02-06-2023 09:16,TXN2088,ACC3,50460.05,Summit Industrial Supply,Transfer,New York,Account
+02-06-2023 08:15,TXN2027,ACC13,57052.97,Summit Industrial Supply,Purchase,Los Angeles,Components
+02-06-2023 08:37,TXN2049,ACC11,51772.34,Continental Machining,Purchase,Tokyo,Components
+02-06-2023 08:58,TXN2070,ACC6,54711.91,ProMetals Industrial,Transfer,New York,Account
+02-06-2023 09:22,TXN2094,ACC10,53361.8,Continental Machining,Purchase,Los Angeles,Logistics
+01-06-2023 08:06,TXN2018,ACC3,102139.77,TitanWorks Fabrication,Withdrawal,London,Credit
+02-06-2023 09:24,TXN2096,ACC13,56205.08,TitanWorks Fabrication,Withdrawal,Los Angeles,Credit
+02-06-2023 08:50,TXN2062,ACC15,51741.49,Steelcore Manufacturing,Withdrawal,San Francisco,Credit
+02-06-2023 08:43,TXN2055,ACC13,50387.34,Ironclad Supply Chain,Purchase,Tokyo,Raw Materials
+02-06-2023 08:36,TXN2048,ACC12,52750.58,Apex Components Co,Withdrawal,Los Angeles,Cash
+02-06-2023 09:09,TXN2081,ACC2,53701.17,Global Freight Logistics,Transfer,London,Account
+02-06-2023 08:35,TXN2047,ACC13,57148.19,Ironclad Supply Chain,Transfer,San Francisco,Account
+02-06-2023 09:04,TXN2076,ACC1,55504.87,Continental Machining,Purchase,London,Logistics
+02-06-2023 08:45,TXN2057,ACC1,59298.48,ProMetals Industrial,Withdrawal,Los Angeles,Cash
+01-06-2023 08:04,TXN2016,ACC11,50,Global Freight Logistics,Purchase,Los Angeles,Raw Materials
+02-06-2023 09:20,TXN2092,ACC15,58314.72,Steelcore Manufacturing,Withdrawal,Los Angeles,Credit
+02-06-2023 09:14,TXN2086,ACC6,50849.95,ProMetals Industrial,Withdrawal,San Francisco,Credit
+-1-01-2023 08:00,TXN2012,ACC4,32819.72,Steelcore Manufacturing,Transfer,San Francisco,Internal
+02-06-2023 09:28,TXN2100,ACC13,56683.06,ProMetals Industrial,Withdrawal,Los Angeles,Cash
+02-06-2023 08:39,TXN2051,ACC9,49046.77,Ironclad Supply Chain,Transfer,London,Internal
+02-06-2023 09:19,TXN2091,ACC8,54325.95,Northgate Materials,Purchase,London,Logistics
+02-06-2023 09:13,TXN2085,ACC10,50419.22,Northgate Materials,Transfer,London,Account
+01-06-2023 08:02,TXN2014,ACC1,6434.08,Global Freight Logistics,Purchase,London,Components
+02-06-2023 08:20,TXN2032,ACC7,53215.93,Continental Machining,Withdrawal,New York,Cash
+02-06-2023 09:21,TXN2093,ACC5,58509.96,Precision Parts Ltd,Transfer,Tokyo,Account
+02-06-2023 08:55,TXN2067,ACC11,54808.23,Steelcore Manufacturing,Purchase,New York,Components
+02-06-2023 08:46,TXN2058,ACC6,53011.76,TitanWorks Fabrication,Transfer,New York,Account
+02-06-2023 08:51,TXN2063,ACC7,48874.98,TitanWorks Fabrication,Transfer,London,Account
+02-06-2023 09:23,TXN2095,ACC3,54995.92,Steelcore Manufacturing,Purchase,Los Angeles,Logistics
+29-02-2000 08:00,TXN2006,ACC3,52602.19,Summit Industrial Supply,Transfer,London,Account
+02-06-2023 08:28,TXN2040,ACC13,54463.01,Summit Industrial Supply,Transfer,London,Account
+02-06-2023 09:11,TXN2083,ACC2,52849.73,ProMetals Industrial,Transfer,San Francisco,Account
+00-05-2023 08:00,TXN2009,ACC9,4795.98,ProMetals Industrial,Withdrawal,London,Credit
+02-06-2023 09:12,TXN2084,ACC3,51330.43,Precision Parts Ltd,Transfer,London,Internal
+02-06-2023 08:10,TXN2022,ACC15,55222.55,ProMetals Industrial,Purchase,New York,Logistics
+01-06-2023 08:03,TXN2015,ACC8,1396.94,Continental Machining,Purchase,San Francisco,Raw Materials
+02-06-2023 08:26,TXN2038,ACC15,49420.43,Summit Industrial Supply,Withdrawal,Los Angeles,Credit
+01--1-2023 08:00,TXN2011,ACC4,47160.29,Northgate Materials,Withdrawal,Tokyo,Cash
+02-06-2023 08:52,TXN2064,ACC6,48590.7,Ironclad Supply Chain,Purchase,Los Angeles,Raw Materials
+02-06-2023 08:17,TXN2029,ACC9,52123.71,Ironclad Supply Chain,Purchase,New York,Raw Materials
+02-06-2023 08:48,TXN2060,ACC14,53460.04,Continental Machining,Withdrawal,London,Cash
+02-06-2023 09:02,TXN2074,ACC1,53071.57,Precision Parts Ltd,Transfer,London,Internal
+02-06-2023 08:57,TXN2069,ACC2,59736.06,Precision Parts Ltd,Withdrawal,Tokyo,Cash
+29-02-1900 08:00,TXN2005,ACC13,53368.24,Precision Parts Ltd,Withdrawal,London,Credit
+02-06-2023 09:05,TXN2077,ACC2,53715.67,Summit Industrial Supply,Purchase,Los Angeles,Components
+02-06-2023 09:25,TXN2097,ACC2,53421.43,Summit Industrial Supply,Withdrawal,Tokyo,Credit
+02-06-2023 09:06,TXN2078,ACC5,57579.26,Precision Parts Ltd,Purchase,New York,Logistics
+02-06-2023 09:00,TXN2072,ACC7,54757.73,Ironclad Supply Chain,Purchase,London,Components
+02-06-2023 08:21,TXN2033,ACC2,53271.75,Steelcore Manufacturing,Purchase,Los Angeles,Components
+15-00-2023 08:00,TXN2008,ACC2,61286.6,Summit Industrial Supply,Withdrawal,San Francisco,Cash
+02-06-2023 08:27,TXN2039,ACC2,58952.1,TitanWorks Fabrication,Withdrawal,Los Angeles,Cash
+02-06-2023 08:12,TXN2024,ACC2,54006.2,Global Freight Logistics,Purchase,London,Raw Materials
+01-06-2023 08:05,TXN2017,ACC10,92065.48,ProMetals Industrial,Withdrawal,Los Angeles,Cash
+02-06-2023 08:14,TXN2026,ACC3,48735.83,Apex Components Co,Transfer,Los Angeles,Internal
+29-02-2024 08:00,TXN2004,ACC8,59071.58,Apex Components Co,Withdrawal,New York,Cash
+02-06-2023 09:08,TXN2080,ACC12,48280.89,Precision Parts Ltd,Transfer,New York,Internal
+32-01-2023 08:00,TXN2001,ACC4,36954.05,Northgate Materials,Purchase,London,Raw Materials
+02-06-2023 08:44,TXN2056,ACC2,58385.93,Ironclad Supply Chain,Purchase,New York,Raw Materials
+01-06-2023 08:01,TXN2013,ACC10,16508.36,Steelcore Manufacturing,Transfer,London,Account
+02-06-2023 09:01,TXN2073,ACC10,53602.87,ProMetals Industrial,Withdrawal,Tokyo,Cash
+02-06-2023 08:09,TXN2021,ACC14,54098.46,Steelcore Manufacturing,Withdrawal,San Francisco,Credit
+02-06-2023 08:22,TXN2034,ACC12,49640.28,Continental Machining,Withdrawal,London,Credit
+02-06-2023 08:19,TXN2031,ACC7,55515.9,Continental Machining,Withdrawal,San Francisco,Credit
+02-06-2023 08:16,TXN2028,ACC2,55801.5,Precision Parts Ltd,Purchase,Tokyo,Raw Materials
+15-13-2023 08:00,TXN2007,ACC6,76647.08,Global Freight Logistics,Transfer,New York,Account
+02-06-2023 08:41,TXN2053,ACC12,47806.76,Continental Machining,Withdrawal,New York,Cash
+02-06-2023 08:56,TXN2068,ACC4,52426.19,Summit Industrial Supply,Transfer,Tokyo,Account
+02-06-2023 08:11,TXN2023,ACC13,51633.23,Steelcore Manufacturing,Transfer,San Francisco,Internal
+02-06-2023 09:27,TXN2099,ACC11,55964.12,Precision Parts Ltd,Withdrawal,Los Angeles,Credit
+02-06-2023 08:54,TXN2066,ACC3,60742.79,Summit Industrial Supply,Transfer,San Francisco,Account
+02-06-2023 08:42,TXN2054,ACC9,52013.52,Northgate Materials,Transfer,New York,Account
+02-06-2023 08:40,TXN2052,ACC9,55606.29,Summit Industrial Supply,Purchase,Los Angeles,Components
+02-06-2023 08:25,TXN2037,ACC7,54823.38,Ironclad Supply Chain,Withdrawal,Tokyo,Cash
+29-02-2023 08:00,TXN2003,ACC12,48242.32,TitanWorks Fabrication,Purchase,New York,Components
+02-06-2023 09:15,TXN2087,ACC4,53099.42,Ironclad Supply Chain,Purchase,Tokyo,Components
+02-06-2023 09:17,TXN2089,ACC12,58492.92,ProMetals Industrial,Purchase,San Francisco,Logistics
+01-06-2023 08:08,TXN2020,ACC8,129844.05,Ironclad Supply Chain,Transfer,San Francisco,Account
+02-06-2023 08:59,TXN2071,ACC5,54304.3,ProMetals Industrial,Transfer,Los Angeles,Account
+02-06-2023 08:18,TXN2030,ACC14,53485.36,ProMetals Industrial,Withdrawal,London,Cash
+02-06-2023 09:07,TXN2079,ACC15,52893.54,Apex Components Co,Transfer,London,Internal
+02-06-2027 08:18,TXN2030,ACC14,53485.36,ProMetals Industrial,Withdrawal,London,Credit
+30-08-2026 09:07,TXN2079,ACC15,52893.54,Apex Components Co,Transfer,London,Internal
+30-02-2026 09:07,TXN2079,ACC15,52893.54,Apex Components Co,Transfer,London,Account
